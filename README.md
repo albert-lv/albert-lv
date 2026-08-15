@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/followers/albert-lv?style=flat-square&label=Followers&color=58A6FF" />
   </a>
   <a href="https://github.com/albert-lv?tab=repositories">
-    <img src="https://img.shields.io/badge/Public+Repos-12+-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Public+Repos-17+-success?style=flat-square" />
   </a>
 </p>
 
@@ -22,6 +22,16 @@ I build **AI Agents**, **Developer Tools**, and **Reinforcement Learning systems
 ---
 
 ## 🚀 Projects
+
+### ⭐ Featured: the nano series
+
+Minimal, readable implementations of agent loops & harness engineering — real systems, kept small enough to read in an evening. Paired chapter-by-chapter with the [harness-101](https://github.com/albert-lv/harness-101) course. 🌐 [nano-harness.github.io](https://nano-harness.github.io)
+
+| Project | Language | Description |
+|---------|----------|-------------|
+| [**nano-agent**](https://github.com/nano-harness/nano-agent) | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | A minimal AI coding assistant — agent loop, tools, context management, swarm multi-agent |
+| [**nano-symphony**](https://github.com/nano-harness/nano-symphony) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | Lightweight orchestration service for running coding agents on tracked issues |
+| [**nano-cloud**](https://github.com/nano-harness/nano-cloud) | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | Distributed execution for agents — gateway/worker architecture for agent fleets |
 
 ### 🤖 AI / Agent Systems
 
@@ -42,7 +52,7 @@ I build **AI Agents**, **Developer Tools**, and **Reinforcement Learning systems
 | Project | Description |
 |---------|-------------|
 | [**LLM-primer**](https://github.com/albert-lv/LLM-primer) | Bilingual, multi-tier LLM knowledge base (community-PR driven) |
-| [**harness-101**](https://github.com/albert-lv/harness-101) | 从零构建 AI Agent 与 Harness Engineering 实战课程 |
+| [**harness-101**](https://github.com/albert-lv/harness-101) | 从零构建 AI Agent 与 Harness Engineering 实战课程（12 因素方法论，配套可运行实现见 [nano 系列](https://nano-harness.github.io)） |
 | [**agent-tips**](https://github.com/albert-lv/agent-tips) | Daily AI agent tool tips (Claude Code, Kimi Code, Cursor, Windsurf, etc.) |
 | [**interview-prep**](https://github.com/albert-lv/interview-prep) | Daily algorithm problems & coding interview preparation |
 
