@@ -25,13 +25,16 @@ I build **AI Agents**, **Developer Tools**, and **Reinforcement Learning systems
 
 ### ⭐ Featured: the nano series
 
-Minimal, readable implementations of agent loops & harness engineering — real systems, kept small enough to read in an evening. Paired chapter-by-chapter with the [harness-101](https://github.com/albert-lv/harness-101) course. 🌐 [nano-harness.github.io](https://nano-harness.github.io)
+Minimal, readable implementations of agent loops, orchestration, distributed execution, and practical developer tools — real systems, kept small enough to read in an evening. Paired chapter-by-chapter with the [harness-101](https://github.com/albert-lv/harness-101) course. 🌐 [nano-harness.github.io](https://nano-harness.github.io)
 
 | Project | Language | Description |
 |---------|----------|-------------|
 | [**nano-agent**](https://github.com/nano-harness/nano-agent) | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | A minimal AI coding assistant — agent loop, tools, context management, swarm multi-agent |
 | [**nano-symphony**](https://github.com/nano-harness/nano-symphony) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) | Lightweight orchestration service for running coding agents on tracked issues |
 | [**nano-cloud**](https://github.com/nano-harness/nano-cloud) | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | Distributed execution for agents — gateway/worker architecture for agent fleets |
+| [**impact-analyzer**](https://github.com/nano-harness/impact-analyzer) | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) | Multi-language change impact analysis — call graphs, affected tests, contract diffs |
+| [**virtual-workspace**](https://github.com/nano-harness/virtual-workspace) | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) | Real Git worktrees for local & remote multi-repository workspaces |
+| [**sparse-ngram-search**](https://github.com/nano-harness/sparse-ngram-search) | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square) | Fast, low-memory code search with sparse n-grams & Git-aware indexes |
 
 ### 🤖 AI / Agent Systems
 
@@ -44,7 +47,7 @@ Minimal, readable implementations of agent loops & harness engineering — real 
 
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
-| [**designing-tuis**](https://github.com/albert-lv/designing-tuis) | Skill | Terminal UI design system — screenshot-to-code for TUIs | ⭐ 17 |
+| [**designing-tuis**](https://github.com/albert-lv/designing-tuis) | Skill | Terminal UI design system — screenshot-to-code for TUIs | ⭐ 19 |
 | [**code-parser**](https://github.com/albert-lv/code-parser) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | tree-sitter based Java code analysis for Spring/Swagger validation | — |
 
 ### 📚 Knowledge & Education
