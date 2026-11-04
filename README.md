@@ -47,7 +47,7 @@ Minimal, readable implementations of agent loops, orchestration, distributed exe
 
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
-| [**designing-tuis**](https://github.com/albert-lv/designing-tuis) | Skill | Terminal UI design system — screenshot-to-code for TUIs | ⭐ 19 |
+| [**designing-tuis**](https://github.com/albert-lv/designing-tuis) | Skill | Terminal UI design system — screenshot-to-code for TUIs | ⭐ 20 |
 | [**code-parser**](https://github.com/albert-lv/code-parser) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | tree-sitter based Java code analysis for Spring/Swagger validation | — |
 
 ### 📚 Knowledge & Education
