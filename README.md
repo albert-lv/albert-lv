@@ -40,7 +40,7 @@ Minimal, readable implementations of agent loops, orchestration, distributed exe
 
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
-| [**OpenAgora**](https://github.com/albert-lv/OpenAgora) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | Open-source rollout, verification & trajectory plane for agentic RL | ⭐ 3 |
+| [**OpenAgora**](https://github.com/albert-lv/OpenAgora) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | Open-source rollout, verification & trajectory plane for agentic RL | ⭐ 4 |
 | [**evernote-ai**](https://github.com/albert-lv/evernote-ai) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) | AI assistant for Evernote with RAG, semantic search & weekly summaries | — |
 
 ### 🛠️ Developer Tools
