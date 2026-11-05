@@ -47,6 +47,7 @@ Minimal, readable implementations of agent loops, orchestration, distributed exe
 
 | Project | Language | Description | Stars |
 |---------|----------|-------------|-------|
+| [**tesla-wrap-workflow**](https://github.com/albert-lv/tesla-wrap-workflow) | Skill / Python | Tesla in-car wrap workflow — UV orientation, template checks, logo removal & PNG/ZIP validation | — |
 | [**designing-tuis**](https://github.com/albert-lv/designing-tuis) | Skill | Terminal UI design system — screenshot-to-code for TUIs | ⭐ 20 |
 | [**code-parser**](https://github.com/albert-lv/code-parser) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | tree-sitter based Java code analysis for Spring/Swagger validation | — |
 
@@ -104,3 +105,4 @@ Minimal, readable implementations of agent loops, orchestration, distributed exe
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=albert-lv&color=58A6FF&style=flat-square" />
 </p>
+
