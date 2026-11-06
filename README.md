@@ -56,7 +56,7 @@ Minimal, readable implementations of agent loops, orchestration, distributed exe
 | Project | Description |
 |---------|-------------|
 | [**LLM-primer**](https://github.com/albert-lv/LLM-primer) | Bilingual, multi-tier LLM knowledge base (community-PR driven) |
-| [**harness-101**](https://github.com/albert-lv/harness-101) | 从零构建 AI Agent 与 Harness Engineering 实战课程（12 因素方法论，配套可运行实现见 [nano 系列](https://nano-harness.github.io)） |
+| [**harness-101**](https://github.com/albert-lv/harness-101) | Hands-on course: Build AI Agents & Harness Engineering from scratch (12-factor methodology, runnable implementations in the [nano series](https://nano-harness.github.io)) |
 | [**agent-tips**](https://github.com/albert-lv/agent-tips) | Daily AI agent tool tips (Claude Code, Kimi Code, Cursor, Windsurf, etc.) |
 | [**interview-prep**](https://github.com/albert-lv/interview-prep) | Daily algorithm problems & coding interview preparation |
 
